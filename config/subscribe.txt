@@ -16,3 +16,8 @@ https://cdn.jsdelivr.net/gh/xzw832/cmys@main/S_CCTV.txt
 https://cdn.jsdelivr.net/gh/xzw832/cmys@main/S_weishi.txt
 https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://github.com/jisoypub/iptv/blob/master/cn_all.m3u
+https://github.com/asdjkl6/tv
+https://github.com/vbskycn/iptv
+https://github.com/kimwang1978/collect-tv-txt
+https://live.iptv365.org/live.txt
