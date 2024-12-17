@@ -20,7 +20,6 @@ https://github.com/jisoypub/iptv/blob/master/cn_all.m3u
 https://github.com/asdjkl6/tv
 https://github.com/vbskycn/iptv
 https://github.com/kimwang1978/collect-tv-txt
-https://live.iptv365.org/live.txt
 https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt
 https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 https://live.iptv365.org/live.txt
