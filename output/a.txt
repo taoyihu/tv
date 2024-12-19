@@ -4,7 +4,7 @@
       "key": "91麻豆",
       "name": "91麻豆",
       "type": 1,
-      "api": "https://www.9191md.me/api.php/prepared/vod/",
+      "api": "https://md91.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -117,26 +117,20 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    {
       "key": "91麻豆(备1)",
       "name": "91麻豆(备1)",
       "type": 1,
-      "api": "https://91md.me/index.php/vod/",
+      "api": "https://md91.cc/api.php/provide/vod/at/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+    {
       "key": "91麻豆(备2)",
       "name": "91麻豆(备2)",
       "type": 1,
-      "api": "https://md91.cc/index.php/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-      "key": "91麻豆(备3)",
-      "name": "91麻豆(备3)",
-      "type": 1,
-      "api": "https://www.md44.cc/index.php/vod",
+      "api": "https://www.9191md.me/api.php/provide/vod/at/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
